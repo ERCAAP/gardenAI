@@ -1,0 +1,73 @@
+{
+  "createGarden": {
+    "title": "Bahçenizi Oluşturun",
+    "subtitle": "AI ile düşlediğiniz bahçeyi tasarlayın",
+    "presetOptions": {
+      "bohemian": "Bohem açık hava alanı oluştur",
+      "tropical": "Yemyeşil tropikal sığınak yarat",
+      "zen": "Minimalist zen bahçesi tasarla"
+    },
+    "customInput": {
+      "placeholder": "Kendi bahçe stilinizi yazın...",
+      "label": "Özel Tasarım İsteği"
+    },
+    "buttons": {
+      "continue": "Devam Et",
+      "generate": "Oluştur",
+      "retry": "Tekrar Dene",
+      "save": "Kaydet",
+      "share": "Paylaş"
+    },
+    "loading": {
+      "almostDone": "Neredeyse bitti!",
+      "refiningDetails": "Detayları iyileştiriyoruz...",
+      "generatingImage": "Görselinizi oluşturuyoruz...",
+      "pleaseWait": "İşlem yaklaşık 10 saniye sürebilir, lütfen uygulamayı kapatmayın."
+    },
+    "chat": {
+      "title": "AI Asistan",
+      "placeholder": "Bahçeniz hakkında soru sorun...",
+      "send": "Gönder"
+    },
+    "results": {
+      "title": "Tasarımınız Hazır!",
+      "description": "AI tarafından oluşturulan bahçe tasarımınız",
+      "feedback": "Bu tasarımı beğendiniz mi?"
+    },
+    "errors": {
+      "generateFailed": "Tasarım oluşturulamadı, lütfen tekrar deneyin",
+      "networkError": "Bağlantı hatası, internet bağlantınızı kontrol edin",
+      "invalidInput": "Lütfen geçerli bir tasarım açıklaması girin"
+    }
+  },
+  "replaceObjects": {
+    "title": "Rötuş",
+    "subtitle": "Yapay zeka ile alanınızı işaretleyin, rötuşlayın ve yeniden hayal edin.",
+    "upload": {
+      "title": "Yükle",
+      "takePhoto": "Fotoğraf çek",
+      "chooseFromGallery": "Galeriden seç",
+      "cancel": "İptal"
+    },
+    "drawMask": {
+      "title": "Maske Çiz",
+      "promptPlaceholder": "Görmek istediğiniz yeni nesneyi buraya yazın",
+      "enterPrompt": "İstemi Girin"
+    },
+    "buttons": {
+      "continue": "Devam Et",
+      "save": "Kaydet",
+      "share": "Paylaş",
+      "upload": "Yükle"
+    },
+    "results": {
+      "title": "Görseliniz Hazır!"
+    },
+    "loading": {
+      "processing": "Görseliniz işleniyor...",
+      "almostDone": "Neredeyse bitti!",
+      "pleaseWait": "Bu işlem birkaç dakika sürebilir."
+    },
+    "examplePhotos": "Örnek Fotoğraflar"
+  }
+} 

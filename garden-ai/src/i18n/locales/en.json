@@ -1,0 +1,73 @@
+{
+  "createGarden": {
+    "title": "Create Your Garden",
+    "subtitle": "Design your dream garden with AI",
+    "presetOptions": {
+      "bohemian": "Generate a bohemian outdoor space",
+      "tropical": "Create a lush tropical retreat",
+      "zen": "Design a minimalistic zen garden"
+    },
+    "customInput": {
+      "placeholder": "Write your own garden style...",
+      "label": "Custom Design Request"
+    },
+    "buttons": {
+      "continue": "Continue",
+      "generate": "Generate",
+      "retry": "Retry",
+      "save": "Save",
+      "share": "Share"
+    },
+    "loading": {
+      "almostDone": "Almost done!",
+      "refiningDetails": "Refining the details...",
+      "generatingImage": "Generating your image...",
+      "pleaseWait": "The process may take about 10 seconds, please do not close the application."
+    },
+    "chat": {
+      "title": "AI Assistant",
+      "placeholder": "Ask about your garden...",
+      "send": "Send"
+    },
+    "results": {
+      "title": "Your Design is Ready!",
+      "description": "AI-generated garden design for you",
+      "feedback": "Do you like this design?"
+    },
+    "errors": {
+      "generateFailed": "Design generation failed, please try again",
+      "networkError": "Connection error, please check your internet connection",
+      "invalidInput": "Please enter a valid design description"
+    }
+  },
+  "replaceObjects": {
+    "title": "Retouch",
+    "subtitle": "Mark, retouch, and reimagine your space with AI.",
+    "upload": {
+      "title": "Upload",
+      "takePhoto": "Take a photo",
+      "chooseFromGallery": "Choose from gallery",
+      "cancel": "Cancel"
+    },
+    "drawMask": {
+      "title": "Draw Mask",
+      "promptPlaceholder": "Type here the new object you want to see",
+      "enterPrompt": "Enter Prompt"
+    },
+    "buttons": {
+      "continue": "Continue",
+      "save": "Save",
+      "share": "Share",
+      "upload": "Upload"
+    },
+    "results": {
+      "title": "Your Image is Ready!"
+    },
+    "loading": {
+      "processing": "Processing your image...",
+      "almostDone": "Almost done!",
+      "pleaseWait": "This may take a few moments."
+    },
+    "examplePhotos": "Example Photos"
+  }
+} 
